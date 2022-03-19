@@ -1,0 +1,15 @@
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\bin\Debug\net6.0\Modul4_1302200084.exe
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\bin\Debug\net6.0\Modul4_1302200084.deps.json
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\bin\Debug\net6.0\Modul4_1302200084.runtimeconfig.json
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\bin\Debug\net6.0\Modul4_1302200084.dll
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\bin\Debug\net6.0\Modul4_1302200084.pdb
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\obj\Debug\net6.0\Modul4_1302200084.csproj.AssemblyReference.cache
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\obj\Debug\net6.0\Modul4_1302200084.GeneratedMSBuildEditorConfig.editorconfig
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\obj\Debug\net6.0\Modul4_1302200084.AssemblyInfoInputs.cache
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\obj\Debug\net6.0\Modul4_1302200084.AssemblyInfo.cs
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\obj\Debug\net6.0\Modul4_1302200084.csproj.CoreCompileInputs.cache
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\obj\Debug\net6.0\Modul4_1302200084.dll
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\obj\Debug\net6.0\refint\Modul4_1302200084.dll
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\obj\Debug\net6.0\Modul4_1302200084.pdb
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\obj\Debug\net6.0\Modul4_1302200084.genruntimeconfig.cache
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 4\Modul\modul4_1302200084\Modul4KPL\Modul4_1302200084\Modul4_1302200084\obj\Debug\net6.0\ref\Modul4_1302200084.dll
