@@ -11,16 +11,7 @@ namespace Modul4_1302200084
         public static void Main(string[] args)
         {
             Console.WriteLine(Penjumlahan.JumlahTigaAngka<double>(13, 02, 20));
-            Console.WriteLine("\n");
-            SimpleDataBase<double> allData = new SimpleDataBase<double>();
 
-            allData.AddNewData(13);
-
-            allData.AddNewData(02);
-
-            allData.AddNewData(20);
-
-            allData.PrintAllData();
         }
     }
 
@@ -35,33 +26,6 @@ namespace Modul4_1302200084
             return jumlah1 + jumlah2 + jumlah3;
 
         }
-    }
-
-    class SimpleDataBase<T>
-    {
-        private List<T> storedData;
-        private List<DateTime> inputDates;
-
-        public SimpleDataBase()
-        {
-            storedData = new List<T>();
-            inputDates = new List<DateTime>();
-        }
-
-        public void AddNewData(T data)
-        {
-            storedData.Add(data);
-            inputDates.Add(DateTime.Now);
-        }
-
-        public void PrintAllData()
-        {
-            for (int i = 0; i < storedData.Count; i++)
-            {
-                Console.WriteLine(" Data " + (i + 1) + " berisi : " + storedData[i] + ", Yang disimpan pada waktu UCT: " + inputDates[i] + " AM\n");
-            }
-        }
-
     }
 
 }
