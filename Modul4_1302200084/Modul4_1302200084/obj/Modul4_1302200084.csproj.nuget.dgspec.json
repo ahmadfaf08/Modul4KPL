@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\.DATA PRAKTIKUM\\Semester 4\\Konstruksi Perangkan Lunak\\Minggu 4\\Modul\\modul4_1302200084\\Modul4KPL\\Modul4_1302200084\\Modul4_1302200084\\Modul4_1302200084.csproj": {}
+  },
+  "projects": {
+    "D:\\.DATA PRAKTIKUM\\Semester 4\\Konstruksi Perangkan Lunak\\Minggu 4\\Modul\\modul4_1302200084\\Modul4KPL\\Modul4_1302200084\\Modul4_1302200084\\Modul4_1302200084.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\.DATA PRAKTIKUM\\Semester 4\\Konstruksi Perangkan Lunak\\Minggu 4\\Modul\\modul4_1302200084\\Modul4KPL\\Modul4_1302200084\\Modul4_1302200084\\Modul4_1302200084.csproj",
+        "projectName": "Modul4_1302200084",
+        "projectPath": "D:\\.DATA PRAKTIKUM\\Semester 4\\Konstruksi Perangkan Lunak\\Minggu 4\\Modul\\modul4_1302200084\\Modul4KPL\\Modul4_1302200084\\Modul4_1302200084\\Modul4_1302200084.csproj",
+        "packagesPath": "C:\\Users\\afaf\\.nuget\\packages\\",
+        "outputPath": "D:\\.DATA PRAKTIKUM\\Semester 4\\Konstruksi Perangkan Lunak\\Minggu 4\\Modul\\modul4_1302200084\\Modul4KPL\\Modul4_1302200084\\Modul4_1302200084\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\afaf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
